@@ -62,7 +62,7 @@ dependencies:
   - pixman=0.38.0=h7b6447c_0
   - py-opencv=3.4.2=py37hb342d67_1
   - pycparser=2.19=py37_0
-  - python=3.7.6=h0371630_1
+  - python=3.7.6
   - python-dateutil=2.8.1=py_0
   - python_abi=3.7=1_cp37m
   - pytz=2019.3=py_0
