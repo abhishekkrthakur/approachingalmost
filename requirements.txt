@@ -56,7 +56,7 @@ seaborn==0.10.1
 six==1.15.0
 tensorboard==2.2.2
 tensorboard-plugin-wit==1.7.0
-tensorflow==2.2.0
+tensorflow==2.2.1
 tensorflow-estimator==2.2.0
 termcolor==1.1.0
 texttable==1.6.2
