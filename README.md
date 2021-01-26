@@ -37,6 +37,7 @@ You can buy the book via these links:
 
 COLOR Version of the book can be bought here:
 
+    INDIA: https://store.pothi.com/book/abhishek-thakur-approaching-almost-any-machine-learning-problem-colour-version/
 
     USA: https://www.amazon.com/dp/B08DC3ZFZZ
 
