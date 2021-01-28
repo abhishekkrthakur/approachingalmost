@@ -1,3 +1,5 @@
+If you like the book, please consider writing a review on Google/Amazon/Goodreads
+
 All datasets have references in the book. They are also uploaded here: https://www.kaggle.com/abhishek/aaamlp
 
 pneumothorax png: https://www.kaggle.com/abhishek/siim-png-images
