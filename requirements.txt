@@ -63,7 +63,7 @@ texttable==1.6.2
 threadpoolctl==2.1.0
 torch==1.5.1
 tqdm==4.47.0
-urllib3==1.25.9
+urllib3==1.26.5
 websocket-client==0.57.0
 werkzeug==1.0.1
 wrapt==1.12.1
