@@ -79,7 +79,6 @@ dependencies:
     - absl-py==0.9.0
     - alabaster==0.7.12
     - albumentations==0.4.3
-    - apex==0.1
     - appdirs==1.4.3
     - astor==0.8.1
     - attrs==19.3.0
@@ -222,7 +221,6 @@ dependencies:
     - pyrsistent==0.15.7
     - pytest==5.3.2
     - python-dotenv==0.13.0
-    - python-graphviz==0.13.2
     - python-slugify==4.0.0
     - pyvips==2.1.12
     - pywavelets==1.1.1
@@ -300,7 +298,5 @@ dependencies:
     - wrapt==1.11.2
     - wtfml==0.0.3
     - xgboost==0.90
-    - yawml==0.0.1
     - zict==2.0.0
     - zipp==0.6.0
-
