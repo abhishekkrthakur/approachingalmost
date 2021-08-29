@@ -1,5 +1,7 @@
 **If you like the book, please consider writing a review on Google/Amazon/Goodreads 🙂**
 
+**Please Note:** If you are buying the paperbook book in India from Amazon India to show your support to the author, you are most-likely buying a counterfeit copy and supporting the sellers selling these illegal copies. In India, please buy from Flipkart (https://www.flipkart.com/approaching-almost-any-machine-learning-problem/p/itm319d050de2fbb) or from Pothi (official publisher): https://store.pothi.com/book/abhishek-thakur-approaching-almost-any-machine-learning-problem/
+
 All datasets have references in the book. They are also uploaded here: https://www.kaggle.com/abhishek/aaamlp
 
 pneumothorax png: https://www.kaggle.com/abhishek/siim-png-images
