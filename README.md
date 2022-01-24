@@ -62,7 +62,7 @@ COLOR Version of the book can be bought here:
 
 If you face problems with the environment files, please try the following instead
 
-    delete the ml enviornment that was created earlier: conda env remove --name ml
+    delete the ml environment that was created earlier: conda env remove --name ml
 
     create a new environment: conda create -n ml python=3.7.6
     
