@@ -61,7 +61,7 @@ tensorflow-estimator==2.2.0
 termcolor==1.1.0
 texttable==1.6.2
 threadpoolctl==2.1.0
-torch==1.5.1
+torch==1.7.1
 tqdm==4.47.0
 urllib3==1.25.9
 websocket-client==0.57.0
