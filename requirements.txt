@@ -35,7 +35,7 @@ oauthlib==3.1.0
 opt-einsum==3.2.1
 pandas==1.0.5
 paramiko==2.7.1
-protobuf==3.12.2
+protobuf==3.18.3
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
 pycparser==2.20
