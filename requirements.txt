@@ -23,7 +23,7 @@ grpcio==1.30.0
 h5py==2.10.0
 idna==2.10
 importlib-metadata==1.7.0
-joblib==0.16.0
+joblib==1.2.0
 jsonschema==3.2.0
 keras-preprocessing==1.1.2
 kiwisolver==1.2.0
