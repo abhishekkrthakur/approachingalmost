@@ -65,7 +65,7 @@ torch==1.5.1
 tqdm==4.47.0
 urllib3==1.25.9
 websocket-client==0.57.0
-werkzeug==1.0.1
+werkzeug==2.2.3
 wrapt==1.12.1
 zipp==3.1.0
 
